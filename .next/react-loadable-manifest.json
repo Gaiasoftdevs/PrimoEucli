@@ -1,0 +1,24 @@
+{
+  "react-apexcharts": [
+    {
+      "id": "ujAs",
+      "name": "./node_modules/apexcharts/dist/apexcharts.common.js",
+      "file": "static/chunks/6c44d60f.4dd0a38206915b04fd68.js",
+      "publicPath": "static/chunks/6c44d60f.4dd0a38206915b04fd68.js"
+    },
+    {
+      "id": "o+DJ",
+      "name": "./node_modules/react-apexcharts/dist/react-apexcharts.min.js",
+      "file": "static/chunks/18.aeb6d5a3616a14400c62.js",
+      "publicPath": "static/chunks/18.aeb6d5a3616a14400c62.js"
+    }
+  ],
+  "react-owl-carousel3": [
+    {
+      "id": "Rst5",
+      "name": "./node_modules/react-owl-carousel3/lib/OwlCarousel.js",
+      "file": "static/chunks/12.a8dbd328a87c5ca7a1c3.js",
+      "publicPath": "static/chunks/12.a8dbd328a87c5ca7a1c3.js"
+    }
+  ]
+}
